@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "basic-details-client-side-solution",
+    "id": "692bdf7d-9612-4f20-a9a2-55e71022dcc8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+
+  "paths": {
+    "zippedPackage": "solution/basic-details.sppkg"
+  }
+
+}
